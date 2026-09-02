@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC20_Checkout_MissingLastName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b40eae47-d970-43d0-98a2-5a287f15ce04</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Login_PerformanceGlitchUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd50083b-4df9-40ae-8584-b594bc7d7d1c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21_Checkout_MissingPostalCode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a644768-b0ba-4162-bd28-03cd4fb38228</testCaseGuid>
+</TestCaseEntity>
