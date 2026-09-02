@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_SortProducts_PriceHighLow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7112679e-fa80-4818-a853-c67dec0ccdb6</testCaseGuid>
+</TestCaseEntity>

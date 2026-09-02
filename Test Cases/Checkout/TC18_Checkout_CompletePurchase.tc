@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC18_Checkout_CompletePurchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>981e18b5-4c41-4b53-aad7-7e51f593610d</testCaseGuid>
+</TestCaseEntity>

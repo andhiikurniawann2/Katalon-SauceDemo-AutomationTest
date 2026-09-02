@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15_AddMultipleProductsToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46eb3210-96ad-406e-858c-4e991e9f20ff</testCaseGuid>
+</TestCaseEntity>

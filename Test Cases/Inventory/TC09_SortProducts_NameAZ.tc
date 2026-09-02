@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09_SortProducts_NameAZ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82f2c1fe-f882-4ba9-90bb-df421534151f</testCaseGuid>
+</TestCaseEntity>

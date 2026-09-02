@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Login_ProblemUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c289a7bb-1e95-4a03-a6a2-cd5980cb437b</testCaseGuid>
+</TestCaseEntity>

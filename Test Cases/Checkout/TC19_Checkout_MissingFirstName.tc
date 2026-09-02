@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19_Checkout_MissingFirstName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b887e8b7-8b85-449c-81fd-3db4a2ce4ce5</testCaseGuid>
+</TestCaseEntity>
